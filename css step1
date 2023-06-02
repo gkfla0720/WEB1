@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head>
+  <title>CSS step1</title>
+  </head>
+  <body>
+  <link href="style.css" rel="stylesheet" type/css">
+  이것은 테스트 문단입니다.
+  </body>
+</html>
